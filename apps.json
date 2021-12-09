@@ -2,7 +2,7 @@
     "apps": [
         {
             "beta": false,
-            "bundleIdentifier": "net.rokkr.app",
+            "bundleIdentifier": "com.c6m6Y.t5u4U",
             "developerName": "henry",
             "downloadURL": "https://github.com/ipahacks/ipas/raw/main/Rokkr%2B.ipa",
             "iconURL": "https://anderbot.com/wp-content/uploads/2021/07/Rokkr.png",
@@ -26,10 +26,10 @@
     "news": [
         {
             "appID": "net.rokkr.app",
-            "caption": "It simply rokks, when optimal usability meets technical excellence. Rokkr can not only play your media, but also offers the functionality of a browser. This combination rokks and ensures entertainment. This is exactly what many users of our app have recognized and that is why the name Rokkr can be found egularly in the top charts of entertainment apps. Download the free Rokkr app now and start enjoying true entertainment.",
+            "caption": "A free Movie watch tool for iOS.",
             "date": "2021-12-09",
             "identifier": "Rokkr",
-            "imageURL": "https://www.rokkr.net/assets/wt1/img/logo-white-rokkr.png#",
+            "imageURL": "",
             "notify": false,
             "tintColor": "000000",
             "title": "RokkrNow Available",
