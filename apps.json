@@ -1,60 +1,28 @@
 {
-    "name": "iPA Hacks",
-    "identifier": "com.ipahacks.altstore",
     "apps": [
         {
-            "name": "Spotify++",
-            "bundleIdentifier": "com.ipahacks.spotify",
-            "developerName": "Henry",
-            "subtitle": "Spotify — but with free Premium",
-            "version": "8.6.24.1302",
-            "versionDate": "2021-12-28T14:30:00-07:00",
-            "versionDescription": "Bug fixes.",
-            "downloadURL": "https://github.com/ipahacks/ipas/raw/main/spotify%2B%2B.ipa",
-            "localizedDescription": "\n\nSpotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world.",
-            "iconURL": "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
-            "tintColor": "95b5d6",
-            "size": 89312385,
+            "beta": false,
+            "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+            "developerName": "henry",
+            "downloadURL": "https://github.com/ipahacks/ipas/raw/main/Rokkr%2B.ipa",
+            "iconURL": "https://anderbot.com/wp-content/uploads/2021/07/Rokkr.png",
+            "localizedDescription": "It simply rokks, when optimal usability meets technical excellence. Rokkr can not only play your media, but also offers the functionality of a browser. This combination rokks and ensures entertainment. This is exactly what many users of our app have recognized and that is why the name Rokkr can be found egularly in the top charts of entertainment apps. Download the free Rokkr app now and start enjoying true entertainment.",
+            "name": "Rokkr",
             "screenshotURLs": [
-                "https://i.imgur.com/W2j590N.png",
-                "https://cdn1s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen1.jpg",
-                "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen2.jpg",
-                "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen3.jpg",
-                "https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen4.jpg",
-                "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen5.jpg",
-                "https://cdn3s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen6.jpg",
-                "https://cdn2s.iosnoops.com/wp-content/uploads/appsicons/1247275033xscreen7.jpg"
-            ]
-        },
-        {
-            "name": "Instagram++",
-            "bundleIdentifier": "com.instagram.apprefresh",
-            "developerName": "Rocket Team",
-            "subtitle": "Instagram 123.0 | Rocket 3.6.8 | NoAds",
-            "version": "123.0",
-            "versionDate": "2019-06-28T14:30:00-07:00",
-            "versionDescription": "Bug fixes.",
-            "downloadURL": "https://dl.orangedox.com/PandaApp/4?dl=1",
-            "localizedDescription": "Rocket enriches Instagram client with loads of features! Starting from saving posts, reposting, checking if other users follow you and many more.",
-            "iconURL": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw",
-            "tintColor": "BA55D3",
-            "size": 65383246,
-            "screenshotURLs": [
-                "https://i.imgur.com/hQDBkcn.jpg",
-                "https://i.imgur.com/sXWyhUO.jpg",
-                "https://i.imgur.com/UA5IKKv.jpg"
-            ]
-        },
-        {
-            "title": "unc0ver out now!",
-            "identifier": "uncover-available-download",
-            "caption": "The most advanced jailbreak tool yet. Tap to download.",
-            "tintColor": "101216",
-            "imageURL": "https://quarklibrary.imfast.io/unc0ver/news.png",
-            "appID": "science.xnu.undecimus",
-            "date": "2020-03-27",
-            "notify": false
+                "https://image.winudf.com/v2/image1/bmV0LnJva2tyLmFwcF9zY3JlZW5fMF8xNjE3OTUwNTQxXzAwMw/screen-0.jpg?fakeurl=1&type=.jpg",
+                "https://image.winudf.com/v2/image1/bmV0LnJva2tyLmFwcF9zY3JlZW5fMV8xNjE3OTUwNTQyXzA5OQ/screen-1.jpg?fakeurl=1&type=.jpg",
+                "https://watchedapk.com/wp-content/uploads/2021/05/Rokkr-url-oha-1-1.png"
+            ],
+            "size": 59410797,
+            "subtitle": "A free Movie watch tool for iOS.",
+            "tintColor": "",
+            "version": "2e5m",
+            "versionDate": "2020-03-24T14:00:00-07:00",
+            "versionDescription": "First release."
         }
     ],
+    "identifier": "com.example.source",
+    "name": "iPA Hacks",
+    "news": [],
     "userInfo": {}
 }
