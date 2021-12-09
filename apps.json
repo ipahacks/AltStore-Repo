@@ -2,7 +2,7 @@
     "apps": [
         {
             "beta": false,
-            "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+            "bundleIdentifier": "net.rokkr.app",
             "developerName": "henry",
             "downloadURL": "https://github.com/ipahacks/ipas/raw/main/Rokkr%2B.ipa",
             "iconURL": "https://anderbot.com/wp-content/uploads/2021/07/Rokkr.png",
@@ -21,7 +21,7 @@
             "versionDescription": "First release."
         }
     ],
-    "identifier": "com.example.source",
+    "identifier": "fun.ipahacks.altstore",
     "name": "iPA Hacks",
     "news": [],
     "userInfo": {}
