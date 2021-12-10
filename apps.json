@@ -2,6 +2,24 @@
     "apps": [
         {
             "beta": true,
+            "bundleIdentifier": "com.crunchyroll.iphone",
+            "developerName": "Kun Gao James Lin Brandon Ooi Vu Nguyen",
+            "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Crunchyroll%2B%2B.ipa",
+            "iconURL": "https://www.crunchyroll.com/about/logos/crunchyroll_logo_vertical.png",
+            "localizedDescription": "Crunchyroll is an American online website and international online community focused on streaming East Asian media including anime, manga, drama, music, electronic entertainment, and auto racing content. Founded in 2006 by a group of University of California-Berkeley undergraduate students.",
+            "name": "Crunchyroll++",
+            "screenshotURLs": [
+                "https://cdn6.aptoide.com/imgs/9/7/4/9745eedefd49f47325befde82b079b26_screen.png"
+            ],
+            "size": 11923363,
+            "subtitle": "Watch free Anime and Manga.",
+            "tintColor": "C3631C",
+            "version": "1.0",
+            "versionDate": "2021-12-10T14:00:00-07:00",
+            "versionDescription": "First Release."
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "net.rokkr.app",
             "developerName": "Rokkr AG",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Rokkr%2B.ipa",
@@ -24,6 +42,16 @@
     "identifier": "fun.ipahacks.altstore",
     "name": "iPA Hacks",
     "news": [
+        {
+            "appID": "com.crunchyroll.iphone",
+            "caption": "Watch free Anime and Manga.",
+            "date": "2021-12-10",
+            "identifier": "Crunchyroll-release",
+            "imageURL": "https://1.bp.blogspot.com/-IWT9hM57Vko/YP8tHyQLcjI/AAAAAAAAARQ/qgfWVtHwu4oaPFLBnpzycA6lU0tmiG35QCLcBGAsYHQ/s1280/crunchyroll.png",
+            "notify": false,
+            "tintColor": "C3631C",
+            "title": "Crunchyroll++ Now Available"
+        },
         {
             "appID": "net.rokkr.app",
             "caption": "A free Movie watch tool for iOS.",
