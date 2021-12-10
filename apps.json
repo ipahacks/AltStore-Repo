@@ -3,9 +3,9 @@
         {
             "beta": true,
             "bundleIdentifier": "com.crunchyroll.iphone",
-            "developerName": "Kun Gao James Lin Brandon Ooi Vu Nguyen",
+            "developerName": "Funimation Global Group",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Crunchyroll%2B%2B.ipa",
-            "iconURL": "https://www.crunchyroll.com/about/logos/crunchyroll_logo_vertical.png",
+            "iconURL": "https://images-na.ssl-images-amazon.com/images/I/417bVUqe0pL.png",
             "localizedDescription": "Crunchyroll is an American online website and international online community focused on streaming East Asian media including anime, manga, drama, music, electronic entertainment, and auto racing content. Founded in 2006 by a group of University of California-Berkeley undergraduate students.",
             "name": "Crunchyroll++",
             "screenshotURLs": [
@@ -14,7 +14,7 @@
             "size": 11923363,
             "subtitle": "Watch free Anime and Manga.",
             "tintColor": "C3631C",
-            "version": "1.0",
+            "version": "1.2",
             "versionDate": "2021-12-10:00:00-07:00",
             "versionDescription": "Removed Timer."
         },
