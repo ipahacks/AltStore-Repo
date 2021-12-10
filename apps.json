@@ -4,7 +4,7 @@
             "beta": true,
             "bundleIdentifier": "net.rokkr.app",
             "developerName": "Rokkr AG",
-            "downloadURL": "https://github.com/ipahacks/AltStore-Repo/blob/main/IPA/Rokkr%2B.ipa",
+            "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Rokkr%2B.ipa",
             "iconURL": "https://anderbot.com/wp-content/uploads/2021/07/Rokkr.png",
             "localizedDescription": "It simply rokks, when optimal usability meets technical excellence. Rokkr can not only play your media, but also offers the functionality of a browser. This combination rokks and ensures entertainment. This is exactly what many users of our app have recognized and that is why the name Rokkr can be found egularly in the top charts of entertainment apps. Download the free Rokkr app now and start enjoying true entertainment.",
             "name": "Rokkr",
@@ -16,9 +16,9 @@
             "size": 59410797,
             "subtitle": "A free Movie watch tool for iOS.",
             "tintColor": "000000",
-            "version": "1.1",
+            "version": "1.2",
             "versionDate": "2021-12-09:00:00-07:00",
-            "versionDescription": "Download Fix"
+            "versionDescription": "Fix."
         }
     ],
     "identifier": "fun.ipahacks.altstore",
