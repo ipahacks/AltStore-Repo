@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "beta": true,
+            "beta": false,
             "bundleIdentifier": "com.crunchyroll.iphone",
             "developerName": "Funimation Global Group",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Crunchyroll%2B%2B.ipa",
@@ -14,9 +14,8 @@
             "size": 11923363,
             "subtitle": "Watch free Anime and Manga.",
             "tintColor": "C3631C",
-            "version": "1.2",
-            "versionDate": "2021-12-10:00:00-07:00",
-            "versionDescription": "Removed Timer."
+            "version": "3.4.1",
+            "versionDate": "2021-12-10:00:00-07:00"
         },
         {
             "beta": false,
@@ -35,8 +34,7 @@
             "subtitle": "A free Movie watch tool for iOS.",
             "tintColor": "000000",
             "version": "1.2",
-            "versionDate": "2021-12-09:00:00-07:00",
-            "versionDescription": "Fix."
+            "versionDate": "2021-12-09:00:00-07:00"
         }
     ],
     "identifier": "fun.ipahacks.altstore",
@@ -57,9 +55,9 @@
             "caption": "A free Movie watch tool for iOS.",
             "date": "2021-12-09",
             "identifier": "Rokkr",
-            "notify": true,
+            "notify": false,
             "tintColor": "000000",
-            "title": "Rokkr is now Available",
+            "title": "Rokkr Now Available",
             "url": "https://ipahacks.github.io/app"
         }
     ],
