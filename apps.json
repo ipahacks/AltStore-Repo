@@ -2,6 +2,21 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "com.liberty.reKairos",
+            "developerName": "exDeveloper",
+            "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/reKairos.ipa",
+            "iconURL": "https://cdn.discordapp.com/attachments/822182730712088595/858742928813195304/ItunesArtwork2x.png",
+            "localizedDescription": "ReKairos is the ultimate gaming app for iOS, this app allows you to play games that are meant for computers everywhere on the go!",
+            "name": "reKairos",
+            "size": 30675548,
+            "subtitle": "An alternative App Store for iOS.",
+            "tintColor": "1CB6EA",
+            "version": "1.0",
+            "versionDate": "2020-03-24T14:00:00-07:00",
+            "versionDescription": ""
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.crunchyroll.iphone",
             "developerName": "Funimation Global Group",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Crunchyroll%2B%2B.ipa",
@@ -40,6 +55,15 @@
     "identifier": "fun.ipahacks.altstore",
     "name": "iPA Hacks",
     "news": [
+        {
+            "appID": "com.rileytestut.Delta",
+            "caption": "ReKairos is the ultimate gaming app for iOS, this app allows you to play games that are meant for computers everywhere on the go!",
+            "date": "2019-09-28",
+            "identifier": "delta-now-available",
+            "notify": false,
+            "tintColor": "1CB6EA",
+            "title": "reKairos Now Available"
+        },
         {
             "appID": "com.crunchyroll.iphone",
             "caption": "Watch free Anime and Manga.",
