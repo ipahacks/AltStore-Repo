@@ -12,8 +12,7 @@
             "subtitle": "An alternative App Store for iOS.",
             "tintColor": "1CB6EA",
             "version": "1.0",
-            "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": ""
+            "versionDate": "2020-03-24T14:00:00-07:00"
         },
         {
             "beta": false,
@@ -56,10 +55,11 @@
     "name": "iPA Hacks",
     "news": [
         {
-            "appID": "com.rileytestut.Delta",
+            "appID": "com.liberty.reKairos",
             "caption": "ReKairos is the ultimate gaming app for iOS, this app allows you to play games that are meant for computers everywhere on the go!",
             "date": "2019-09-28",
-            "identifier": "delta-now-available",
+            "identifier": "com.liberty.reKairos",
+            "imageURL": "",
             "notify": false,
             "tintColor": "1CB6EA",
             "title": "reKairos Now Available"
