@@ -15,8 +15,8 @@
             "subtitle": "Watch free Anime and Manga.",
             "tintColor": "C3631C",
             "version": "1.0",
-            "versionDate": "2021-12-10T14:00:00-07:00",
-            "versionDescription": "First Release."
+            "versionDate": "2021-12-10:00:00-07:00",
+            "versionDescription": "Removed Timer."
         },
         {
             "beta": false,
@@ -46,7 +46,7 @@
             "appID": "com.crunchyroll.iphone",
             "caption": "Watch free Anime and Manga.",
             "date": "2021-12-10",
-            "identifier": "Crunchyroll-release",
+            "identifier": "com.crunchyroll.iphone",
             "imageURL": "https://1.bp.blogspot.com/-IWT9hM57Vko/YP8tHyQLcjI/AAAAAAAAARQ/qgfWVtHwu4oaPFLBnpzycA6lU0tmiG35QCLcBGAsYHQ/s1280/crunchyroll.png",
             "notify": false,
             "tintColor": "C3631C",
