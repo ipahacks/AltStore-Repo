@@ -3,20 +3,23 @@
         {
             "beta": false,
             "bundleIdentifier": "com.simplycode.PostBox",
-            "developerName": "Riley Testut",
+            "developerName": "b0kch01",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/PostBox.ipa",
             "iconURL": "https://www.postbox.news/splashbox.c65ff5d2.png",
             "localizedDescription": "First of its kind. PostBox enables content creation and sharing dedicated to jailbreaking. More information, less distraction. A pool of feeds.",
             "name": "PostBox",
             "screenshotURLs": [
-                "https://www.postbox.news/hero-img-2.713fbe7f.png",
-                "https://www.postbox.news/hero-img-7.33448bd2.png"
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/1284BDE9-33FD-4508-93EB-85CF3B213436.jpeg?raw=true",
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/8715F5B5-28FA-41A8-90A1-D328E0607C94.jpeg?raw=true",
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/D4206795-4A92-475E-89A8-535ADD3EFC68.jpeg?raw=true",
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/7DB07B9A-7F0F-4DC4-B9D5-28C0791169F7.jpeg?raw=true"
             ],
             "size": 15583717,
             "subtitle": "PostBox",
-            "tintColor": "018084",
+            "tintColor": "EEB906",
             "version": "1.3b2",
-            "versionDate": "2021-12-11:00:00-07:00"
+            "versionDate": "2021-12-11:00:00-07:00",
+            "versionDescription": "First Release."
         }
     ],
     "identifier": "fun.ipahacks.altstore",
