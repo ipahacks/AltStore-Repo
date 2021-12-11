@@ -2,6 +2,20 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Google",
+            "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/cercube5.ipa",
+            "iconURL": "https://iosninja.io/img/ipas/cercube.png",
+            "localizedDescription": "What is YouTube and how does it work?\nYouTube is a video sharing service where users can watch, like, share, comment and upload their own videos. The video service can be accessed on PCs, laptops, tablets and via mobile phones.",
+            "name": "Cercube 5",
+            "size": 108161872,
+            "subtitle": "YouTube Premium Free",
+            "tintColor": "E82634",
+            "version": "16.32.6",
+            "versionDate": "2021-12-24:00:00-07:00"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.simplycode.PostBox",
             "developerName": "b0kch01",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/PostBox.ipa",
@@ -9,10 +23,10 @@
             "localizedDescription": "First of its kind. PostBox enables content creation and sharing dedicated to jailbreaking. More information, less distraction. A pool of feeds.",
             "name": "PostBox",
             "screenshotURLs": [
-                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/1284BDE9-33FD-4508-93EB-85CF3B213436.jpeg?raw=true",
-                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/8715F5B5-28FA-41A8-90A1-D328E0607C94.jpeg?raw=true",
-                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/D4206795-4A92-475E-89A8-535ADD3EFC68.jpeg?raw=true",
-                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/7DB07B9A-7F0F-4DC4-B9D5-28C0791169F7.jpeg?raw=true"
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/PostBox/Today.jpeg?raw=true",
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/PostBox/Package.jpeg?raw=true",
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/PostBox/Repos.jpeg?raw=true",
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/PostBox/Search.jpeg?raw=true"
             ],
             "size": 15583717,
             "subtitle": "A package Installer, but with out a Jailbreak!",
@@ -25,8 +39,18 @@
     "name": "iPA Hacks",
     "news": [
         {
+            "appID": "com.google.ios.youtube",
+            "caption": "YouTube Premium and other Features for free",
+            "date": "2021-12-11",
+            "identifier": "cercube-now-avaible",
+            "imageURL": "https://jilaxzone.com/wp-content/uploads/2020/06/download-install-youtube-jilaxzone.com_.png",
+            "notify": false,
+            "tintColor": "E82634",
+            "title": "Cercube Now Availble"
+        },
+        {
             "appID": "fun.ipahacks.altstore",
-            "caption": "Finally, is iPA Hacks on AltStore.Install you favourite Tweaked apps and more.",
+            "caption": "Finally, is iPA Hacks on AltStore./nInstall you favourite Tweaked apps and more.",
             "date": "2021-12-11",
             "identifier": "ipahacks-on-altstore",
             "imageURL": "https://ipahacks.github.io/assets/icons/icon.png",
