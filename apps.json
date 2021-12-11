@@ -8,6 +8,12 @@
             "iconURL": "https://iosninja.io/img/ipas/cercube.png",
             "localizedDescription": "What is YouTube and how does it work?\nYouTube is a video sharing service where users can watch, like, share, comment and upload their own videos. The video service can be accessed on PCs, laptops, tablets and via mobile phones.",
             "name": "Cercube 5",
+            "screenshotURLs": [
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/Cercube/Download.png?raw=true",
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/Cercube/View.png?raw=true",
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/Cercube/pip.png?raw=true",
+                "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/Cercube/settings.png?raw=true"
+            ],
             "size": 108161872,
             "subtitle": "YouTube Premium Free",
             "tintColor": "E82634",
