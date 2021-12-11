@@ -15,7 +15,7 @@
             "versionDate": "2021-12-11:00:00-07:00"
         },
         {
-            "beta": false,
+            "beta": true,
             "bundleIdentifier": "com.simplycode.PostBox",
             "developerName": "b0kch01",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/PostBox.ipa",
