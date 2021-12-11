@@ -23,6 +23,18 @@
     ],
     "identifier": "fun.ipahacks.altstore",
     "name": "iPA Hacks",
-    "news": [],
+    "news": [
+        {
+            "appID": "fun.ipahacks.altstore",
+            "caption": "Finally, is iPA Hacks on AltStore.Install you favourite Tweaked apps and more.",
+            "date": "2019-09-28",
+            "identifier": "ipahacks-on-altstore",
+            "imageURL": "https://ipahacks.github.io/assets/icons/icon.png",
+            "notify": false,
+            "tintColor": "Ee0616",
+            "title": "iPA Hacks now on AltStore",
+            "url": "https://ipahacks.github.io/app"
+        }
+    ],
     "userInfo": {}
 }
