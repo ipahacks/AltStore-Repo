@@ -1,1 +1,26 @@
- 
+{
+    "apps": [
+        {
+            "beta": false,
+            "bundleIdentifier": "com.simplycode.PostBox",
+            "developerName": "Riley Testut",
+            "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/PostBox.ipa",
+            "iconURL": "https://www.postbox.news/splashbox.c65ff5d2.png",
+            "localizedDescription": "First of its kind. PostBox enables content creation and sharing dedicated to jailbreaking. More information, less distraction. A pool of feeds.",
+            "name": "PostBox",
+            "screenshotURLs": [
+                "https://www.postbox.news/hero-img-2.713fbe7f.png",
+                "https://www.postbox.news/hero-img-7.33448bd2.png"
+            ],
+            "size": 15583717,
+            "subtitle": "PostBox",
+            "tintColor": "018084",
+            "version": "1.3b2",
+            "versionDate": "2021-12-11:00:00-07:00"
+        }
+    ],
+    "identifier": "fun.ipahacks.altstore",
+    "name": "iPA Hacks",
+    "news": [],
+    "userInfo": {}
+}
