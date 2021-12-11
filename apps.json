@@ -15,11 +15,10 @@
                 "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/7DB07B9A-7F0F-4DC4-B9D5-28C0791169F7.jpeg?raw=true"
             ],
             "size": 15583717,
-            "subtitle": "PostBox",
+            "subtitle": "A package Installer, but with out a Jailbreak!",
             "tintColor": "EEB906",
             "version": "1.3b2",
-            "versionDate": "2021-12-11:00:00-07:00",
-            "versionDescription": "First Release."
+            "versionDate": "2021-12-11:00:00-07:00"
         }
     ],
     "identifier": "fun.ipahacks.altstore",
