@@ -2,6 +2,25 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "com.lema.LizardApp",
+            "developerName": "Reddit Inc.",
+            "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Reddit%2B%2B.ipa",
+            "iconURL": "https://play-lh.googleusercontent.com/8Vw-7MAm558750a4M55fiOlUf7lP2cYnFuqSWynrygIiyEEiQQDa_xxHKYOX83L0UD2T",
+            "localizedDescription": "Reddit is a social news website and forum where content is socially curated and promoted by site members through voting. The site name is a play on the words \"I read it.\" ... For a monthly fee or yearly subscription, redditors can upgrade to Reddit Gold.",
+            "name": "Reddit++",
+            "screenshotURLs": [
+                "https://static.appdb.to/images/cydia-1900000707-iphone-0-1606393505.png",
+                "https://static.appdb.to/images/cydia-1900000707-iphone-1-1606393505.png",
+                "https://static.appdb.to/images/cydia-1900000707-iphone-2-1606393506.png"
+            ],
+            "size": 48940255,
+            "subtitle": "Reddit++ on AltStore",
+            "tintColor": "E8721c",
+            "version": "2020.32.0",
+            "versionDate": "2021-12-12:00:00-07:00"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.uni.UnicornApp",
             "developerName": "LemaMichael",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Unicorn.ipa",
