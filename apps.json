@@ -2,6 +2,26 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "developerName": "FouadRaheb",
+            "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/watusi3.ipa",
+            "iconURL": "https://static.appdb.to/images/cydia-1900000819-icon-1620288890.png",
+            "localizedDescription": "After 4+ years of continuous work on Watusi 2, I decided to release Watusi 3 + Stalky with many new features that I'm hoping you guys will like. More new features are coming soon!\n\nSo, what's new in Watusi 3?\n\nNew Features:\n\n- Added a new statuses bar to display all your contacts current statuses on top of the chats list\n- Added option to view and display your contacts statuses on top of their profile pictures in chats list\n- Created Status Archive which will save all your uploaded statuses and their viewers\n- Added option to filter/sort the chats list, available in the new Chats List Add-ons section\n- Added option to manage WhatsApp tabs from which you can hide any tab or add custom ones like Favorites and Groups. (Removed Replace Camera Tab feature since it can now be done using this new feature)\n- Added new section to import/download custom tones to be used for your contacts notifications from their contact info page\n- Added new “Chat Details” section inside contact and group info pages to get more details and analytics about the chat\n- Added a new section for Contacts Spoofing which allows you to hide or use a custom profile picture for your contact as well as choosing a different name inside WhatsApp\n- Re-write Auto Reply section with many new features and the option to get the message from a web request\n- Added option to automatically generate multiple broadcast lists from your WhatsApp contacts\n- Added option to disable Delivery Receipts for specific contacts only just like read receipts. (You would still have a delay in messages if you have a lot of pending messages waiting to be marked as delivered on the server)\n- Added option to hide all profile pictures from chats list (available in User Interface section)\n- Added option to hide WhatsApp Web section from settings (available in User Interface section)\n- New Share Sheet Actions\n\n- Added option to send photos & videos as documents which will allow you to send them in full quality\n- Added option to take a long screenshot for a chat (Available in share sheet actions)\nImprovements\n\n- Added whitelist option to Statuses’ Disable Mark Viewed feature to allow sending viewed receipts for certain contacts\n- Added new option to mute notifications from chats locked in the archive using “Archive Lock” feature\n- Audio bar will now show a progress bar of the currently playing audio\n- Swipe for Contact Info will now add a new button instead of replacing the Unread button\n- Added haptic feedback on status controls and other places\n- Compatible with iOS 9 – 14\n\n- The package includes a toggle for Control Center, download CCSupport package and activate it from your Control Center settings.\n\n- The tweak is available in English, Arabic, German, Spanish, French, Italian, Portuguese, Turkish, Hebrew.\n\n- Configure options from inside WhatsApp settings.\n\n- The tweak is free to use with a single ad banner on top of the chats and has the option to purchase a license from settings to remove ads and unlock some premium features. The one-time license costs 9.99$, Watusi 2 users will get 25% discount, or 50% discount if purchased less than 6 months ago.\n\n- You can also subscribe to Bronze membership on Patreon which will give you a license to Watusi 3 and all of my other tweaks (Watusi 2, OnlineNotify, ContactSync, Stalky).Patreon Silver members will also get access to beta tweaks. New features are coming to Watusi 3 beta next week!\n\n- Watusi 2 will still be maintained and updated for upcoming WhatsApp updates.\n\n- Watusi 3 YouTube Video — youtu.be/WIBQX5E9Mdc\n\nWebsite — fouadraheb.com/Watusi\nRepository — apt.fouadraheb.com\nTwitter — @FouadRaheb\nContirbute — donate.fouadraheb.com / patreon.com/FouadRaheb\nSupport — support@fouadraheb.co",
+            "name": "Watusi 3",
+            "screenshotURLs": [
+                "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/bd/14/43/bd144322-7a0c-ac1a-8142-8f7a4e691368/89327ad0-6f69-48ec-8db5-7a5c156af673_0_APP_IPHONE_55_0.png/392x696bb.png",
+                "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/fe/51/f3/fe51f359-1d03-6367-5eed-e0e6e95e4dda/216ff252-871d-408e-b723-8b78ede3b15d_1_APP_IPHONE_55_1.png/392x696bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/70/32/e3/7032e37e-1e3d-8393-b927-a7ceb77d70e1/913d35a1-d352-4fea-8715-0ebde7097fb1_2_APP_IPHONE_55_2.png/392x696bb.png",
+                "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/9e/3c/c7/9e3cc760-214f-75f3-54a4-e8803ff41a16/baa11e06-e8f9-4edd-bef0-6df1fe6122e8_3_APP_IPHONE_55_3.png/392x696bb.png"
+            ],
+            "size": 130151401,
+            "subtitle": "An alternative App Store for iOS.",
+            "tintColor": "1ce84e",
+            "version": "2.21.211",
+            "versionDate": "2021-12-12:00:00-07:00"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Google",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/cercube5.ipa",
@@ -15,7 +35,7 @@
                 "https://github.com/ipahacks/AltStore-Repo/blob/main/assets/img/Cercube/settings.png?raw=true"
             ],
             "size": 108161872,
-            "subtitle": "YouTube Premium Free",
+            "subtitle": "YouTube Premium and other Features for free!",
             "tintColor": "E82634",
             "version": "16.32.6",
             "versionDate": "2021-12-11:00:00-07:00"
