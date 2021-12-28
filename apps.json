@@ -2,6 +2,20 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "net.rokkr.app",
+            "developerName": "Watched",
+            "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Rokkr%2B.ipa",
+            "iconURL": "https://www.chip.de/ii/1/2/6/3/8/6/6/6/0/467d85abfbb81b82.jpg",
+            "localizedDescription": "Watch Free Movies",
+            "name": "Rokkr",
+            "size": 59410797,
+            "subtitle": "Watch Free Movies",
+            "tintColor": "111111",
+            "version": "1",
+            "versionDate": "2021-03-28:00:00-07:00"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.lema.LizardApp",
             "developerName": "Reddit Inc.",
             "downloadURL": "https://github.com/ipahacks/AltStore-Repo/raw/main/IPA/Reddit%2B%2B.ipa",
